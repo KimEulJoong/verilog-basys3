@@ -1,4 +1,4 @@
-# 시스템반도체설계 Final Project 
+# 시스템반도체설계 : Watch, StopWatch, HC-SR04, DHT11 종합 시스템 
 
 ## 팀 정보
 - **팀명**: 4조
